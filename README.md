@@ -10,6 +10,7 @@
 ## 2_Campaign
 * `2_Campaign/D5_Amechrouk_printmockups.pdf` · Print (Horeca & Festivalterrein) · CMYK, PDF met snijtekens en 3mm afloop. Bevat bierviltje (90x90mm) en polsbandje (350x15mm).
 * `2_Campaign/FESTURA_poster.png` · Print (Out of Home) · RGB/PNG, A3-formaat (visual voor capture video).
+* `2_Campaign/FESTURA_IG_Story.png` · Social Media (Instagram Story) · RGB/PNG, 1080 x 1920 px.
 
 
 ## 3_Motion
